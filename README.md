@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Full stack nodejs developer. Say hi at prabhanjan@fosslife.com
+
+:crab: Rust is :heart:
+
+
 <!--
 **Sparkenstein/Sparkenstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
