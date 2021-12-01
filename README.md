@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Full stack nodejs developer. Say hi at prabhanjan@fosslife.com
+Full stack developer. open source enthusiast. emacs/vim both. tabs.
+
+Say hi at prabhanjan@fosslife.com
 
 :crab: Rust is :heart:
 
